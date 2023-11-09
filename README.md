@@ -1,0 +1,1 @@
+# Adding-10-Elements-to-a-List-and-Clearing-It
